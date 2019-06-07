@@ -38,7 +38,6 @@ paginate: 8
 footer-links: 
   weibo: https://weibo.com/1671657410/profile?topnav=1&wvr=6&is_all=1
   rss: #随便填点啥RSS就能用了
-  bilibili: https://space.bilibili.com/22556326
 # 站点页脚的文字
 footer-text: Copyright (c) 2019 来自中世界
 
